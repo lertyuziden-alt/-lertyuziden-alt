@@ -1,46 +1,51 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=I'm+Zidan;Cyber+Security+Enthusiast;Future+Ethical+Hacker;Securing+The+Matrix" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=I'm+Zidan;Offensive+Security+Enthusiast;Digital+Forensics+Learner;Zero+Trust+Believer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Identity-Zidan-black?style=for-the-badge&logo=spyderide&color=00FF41" />
   <img src="https://img.shields.io/badge/Age-15-black?style=for-the-badge&logo=target&color=00FF41" />
-  <img src="https://img.shields.io/badge/Field-Cyber_Security-red?style=for-the-badge&logo=bugcrowd" />
-  <img src="https://img.shields.io/badge/OS-Kali_Linux-blue?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/Mindset-Stay+Hungry+Stay+Shadow-red?style=for-the-badge&logo=hack-the-box" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_OS-Kali_Linux-blue?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Penetration_Testing-red?style=for-the-badge&logo=target" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=neon&count_private=true" alt="Zidan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=neon&count_private=true" alt="Zidan's Stats" />
 </div>
 
 ---
 
-### 🛡️ من أنا (About Me)
-- 👤 **الاسم:** زيدان
-- 🚀 **العمر:** 15 عاماً (عقلية هاكر طموح)
-- 🎯 **الهدف:** التخصص في مجال الـ **Penetration Testing** وحماية الأنظمة.
-- 🛠️ **أدواتي المفضلة:** Nmap, Wireshark, Burp Suite.
-- 📚 **حالياً أتعلم:** Networking fundamentals & Python for Security.
+### 🕵️ Profile Overview
+- 🛡️ **Objective:** Mastering the art of exploitation and system hardening.
+- 🧠 **Hacker Mindset:** "A lock is only a challenge, never a barrier."
+- 💻 **Main Stack:** Linux, Python, Bash, and Network Protocol Analysis.
+- 🔭 **Current Activity:** Deep diving into Web Application Vulnerabilities (OWASP).
+- ⚡ **Philosophy:** Knowledge is free, but security is earned.
 
-### ☣️ مهارات الهجوم والدفاع (Skills)
-| المجال | الأدوات | المستوى |
+### ☣️ Technical Arsenal
+| Domain | Tools | Proficiency |
 | :--- | :--- | :--- |
-| **Web Security** | OWASP Top 10 | 🟢 Learning |
-| **Network** | TCP/IP, DNS | 🟡 Intermediate |
-| **Linux** | Terminal, Bash | 🟠 Advanced |
+| **Offensive Security** | Nmap, Metasploit, SQLmap | 🟢 Learning |
+| **Traffic Analysis** | Wireshark, Tshark | 🟡 Intermediate |
+| **System Admin** | Linux Terminal, SSH, Docker | 🟠 Advanced |
 
-### 🏆 التحديات (CTF Platforms)
+### 🏆 Conquests & Lab Results
 <p align="left">
-  <a href="https://tryhackme.com/p/YOUR_USERNAME"><img src="https://img.shields.io/badge/TryHackMe-Rank-white?style=flat&logo=tryhackme&logoColor=red" /></a>
-  <a href="https://hackthebox.eu/u/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackTheBox-Member-green?style=flat&logo=hackthebox&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/YOUR_USERNAME"><img src="https://img.shields.io/badge/TryHackMe-Rank_Status-white?style=flat&logo=tryhackme&logoColor=red" /></a>
+  <a href="https://hackthebox.eu/u/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackTheBox-Shadow_Member-green?style=flat&logo=hackthebox&logoColor=white" /></a>
 </p>
 
-### 📊 نشاطي على الـ Terminal
+### 📈 Terminal Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=neon)
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Security%20is%20an%20illusion,%20knowledge%20is%20the%20only%20shield." alt="Security Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Security+is+not+a+product,+it+is+a+constant+process+of+learning." alt="Cyber Quote" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00FF41&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Encryption_Keys_Scanned&color=00FF41&style=flat" alt="Views" />
 </div>
