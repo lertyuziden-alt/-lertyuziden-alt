@@ -1,45 +1,46 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Greetings,+I'm+an+Ethical+Hacker;Securing+the+Digital+World;Digital+Forensics+Expert;Always+Learning+New+Exploits" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=I'm+Zidan;Cyber+Security+Enthusiast;Future+Ethical+Hacker;Securing+The+Matrix" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cyber%20Security-red?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Status-Hunting%20Bugs-green?style=for-the-badge&logo=bugcrowd" />
-  <img src="https://img.shields.io/badge/Main_OS-Kali%20Linux-blue?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/Age-15-black?style=for-the-badge&logo=target&color=00FF41" />
+  <img src="https://img.shields.io/badge/Field-Cyber_Security-red?style=for-the-badge&logo=bugcrowd" />
+  <img src="https://img.shields.io/badge/OS-Kali_Linux-blue?style=for-the-badge&logo=kali-linux" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=neon&count_private=true" alt="Zidan's GitHub Stats" />
 </div>
 
 ---
 
-### 🛡️ About Me
-- 🔭 I’m currently working on **Advanced Penetration Testing**
-- 🛡️ Specializing in: **Web App Security / Network Security / CTFs**
-- ⚡ Knowledge: **Malware Analysis & Digital Forensics**
-- 💬 Ask me about: **Nmap, Metasploit, Wireshark, Burp Suite**
-- 📫 Reach me: **your-email@example.com**
+### 🛡️ من أنا (About Me)
+- 👤 **الاسم:** زيدان
+- 🚀 **العمر:** 15 عاماً (عقلية هاكر طموح)
+- 🎯 **الهدف:** التخصص في مجال الـ **Penetration Testing** وحماية الأنظمة.
+- 🛠️ **أدواتي المفضلة:** Nmap, Wireshark, Burp Suite.
+- 📚 **حالياً أتعلم:** Networking fundamentals & Python for Security.
 
-### 🛠️ Professional Arsenal (Skills)
+### ☣️ مهارات الهجوم والدفاع (Skills)
+| المجال | الأدوات | المستوى |
+| :--- | :--- | :--- |
+| **Web Security** | OWASP Top 10 | 🟢 Learning |
+| **Network** | TCP/IP, DNS | 🟡 Intermediate |
+| **Linux** | Terminal, Bash | 🟠 Advanced |
+
+### 🏆 التحديات (CTF Platforms)
 <p align="left">
-  <img src="https://img.shields.io/badge/-Kali_Linux-555555?style=flat&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-000000?style=flat&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" />
+  <a href="https://tryhackme.com/p/YOUR_USERNAME"><img src="https://img.shields.io/badge/TryHackMe-Rank-white?style=flat&logo=tryhackme&logoColor=red" /></a>
+  <a href="https://hackthebox.eu/u/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackTheBox-Member-green?style=flat&logo=hackthebox&logoColor=white" /></a>
 </p>
 
-### 🏆 Certifications & Achievements
-- ✅ **CompTIA Security+**
-- ✅ **eJPT (eLearnSecurity Junior Penetration Tester)**
-- 🚩 Top 1% on **TryHackMe / HackTheBox**
-
-### 📊 Activity Matrix
-![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight)
+### 📊 نشاطي على الـ Terminal
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=neon)
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Security%20is%20not%20a%20product,%20but%20a%20process." alt="Security Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Security%20is%20an%20illusion,%20knowledge%20is%20the%20only%20shield." alt="Security Quote" />
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00FF41&style=flat" alt="Views" />
+</div>
